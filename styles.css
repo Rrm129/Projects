@@ -50,6 +50,14 @@ html, body {
   text-decoration: none;
 }
 
+a,
+a:link,
+a:visited,
+a:hover,
+a:active{
+    text-decoration: none;
+}
+
 .project-title {
   /* padding-top: 45px; */
   text-align: center;
