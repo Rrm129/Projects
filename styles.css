@@ -46,6 +46,10 @@ html, body {
   
 }
 
+.project-link{
+  text-decoration: none;
+}
+
 .project-title {
   /* padding-top: 45px; */
   text-align: center;
