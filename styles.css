@@ -1,7 +1,8 @@
 html, body {
   font-family: "Times New Roman", Times, serif;
-  background-color: grey;
+  background-image: url(static/cool-background.png);
   height: 100vh;
+  
 }
 
 .page-content {
@@ -28,6 +29,7 @@ html, body {
   /* margin-top: -87px; */
   height: 100vh;
   background-color: whitesmoke;
+  
   position: relative;
   /* padding-bottom: 150px; */
   margin-bottom: 0;
