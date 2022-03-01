@@ -2,7 +2,6 @@ html, body {
   font-family: "Times New Roman", Times, serif;
   background-image: url(static/cool-background.png);
   height: 100vh;
-  
 }
 
 .page-content {
@@ -11,13 +10,9 @@ html, body {
   margin-left: auto;
   margin-right: auto;
   height: 100vh;
-  
 }
 .navbar {
   background-color: #0d5330;
-  /* position: absolute;
-  top: 0;
-  min-width: 80px; */
 }
 
 .logo {
@@ -26,14 +21,10 @@ html, body {
 
 
 .section-content {
-  /* margin-top: -87px; */
   height: 100vh;
   background-color: whitesmoke;
-  
   position: relative;
-  /* padding-bottom: 150px; */
   margin-bottom: 0;
- 
 }
 
 .row {
@@ -43,9 +34,7 @@ html, body {
 }
 
 .project{
-
   align-self: center;
-  
 }
 
 .project-link{
@@ -61,7 +50,6 @@ a:active{
 }
 
 .project-title {
-  /* padding-top: 45px; */
   text-align: center;
   font-weight: 600;
   font-size: x-large;
@@ -84,7 +72,6 @@ a:active{
   border-style: solid;
   border-color: black;
   max-width: 250px;
-
   border-radius: 10px;
   background-color: white;
   height: 280px;
@@ -122,14 +109,9 @@ footer {
 }
 
 @media (min-width: 993px) {
-  html, body {
-    /* height: 95vh; */
-  }
+  
   .navbar {
     background-color: #0d5330;
-    /* position: absolute;
-    top: 0;
-    min-width: 80px; */
     position: fixed;
     width: 100%;
     z-index: 1;
@@ -138,6 +120,7 @@ footer {
     max-width: 1300px;
   
   }
+
   .row {
     padding-top: 0px;
   }
@@ -157,14 +140,9 @@ footer {
 }
 
 @media (max-width: 992px) {
-  html, body {
-    height: ;
-  }
+  
   .navbar {
     background-color: #0d5330;
-    /* position: absolute;
-    top: 0;
-    min-width: 80px; */
     position: fixed;
     width: 100%;
     z-index: 1;
